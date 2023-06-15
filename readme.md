@@ -7,4 +7,4 @@ https://ashoeswebsiteilkhukuk.netlify.app/
 
 <h2>Screenshot</h2>
 
-![](screen.gif)
+![](Screen.gif)
